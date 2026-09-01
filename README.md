@@ -4,7 +4,7 @@ A full-stack One Gram Jewellery e-commerce website built using the MERN stack.
 
 ## 🌐 Live Website
 
-🔗 https://sun-one-jewellery-vercel.vercel.app/
+🔗https://sunonejewellery.vercel.app
 
 ## 📌 Project Description
 
